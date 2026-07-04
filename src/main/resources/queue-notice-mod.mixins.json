@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "com.snowzhou.queuenotice.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"TitleListenerMixin",
+		"ConnectionMixin",
+		"TotemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
