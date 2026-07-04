@@ -7,5 +7,6 @@ For setup instructions, please see the [Fabric Documentation page](https://docs.
 ## License
 
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bedb789e-7b18-4d93-9d57-041b247dc359" />
+以防在全屏模式下收不到toast通知。请这样设置
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cce4bd45-fb2b-4a05-ac8a-49e1624f274e" />
 以防在全屏模式下收不到toast通知。请这样设置^
